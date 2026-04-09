@@ -27,9 +27,9 @@ The current implementations combine:
 
 ```text
 GWAC/
-├── GWAC_L8_module.js
-├── GWAC_L9_module.js
-├── GWAC_S2_module.js
+├── GWAC_L8.js
+├── GWAC_L9.js
+├── GWAC_S2.js
 ├── GWAC_example.js
 ├── README.md
 └── LICENSE
